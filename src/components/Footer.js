@@ -19,7 +19,6 @@ function Footer (){
             alert("Issue with submiting. Please try again.")
         });
     }
-    console.log(message)
     return(
       
         <div className="footer">
