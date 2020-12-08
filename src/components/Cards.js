@@ -14,7 +14,7 @@ function Cards() {
                         <Carditem src="/image/freecodecamp.jpg" head="Full-Stack developer Certification" date="Novermber 2020" from="freecodecamp.org"/>
                 </div>
                 <div className="cards__wrapper">
-                        <Carditem src="/image/codecademy.PNG" head="Data Science Related" date="Novermber 2020" from="freecodecamp.org"/>
+                        <Carditem src="/image/codecademy.PNG" head="Data Science Related Certifications" date="Novermber 2020" from="codecademy"/>
                 </div> 
             </div>
         </div>

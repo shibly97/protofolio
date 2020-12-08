@@ -161,4 +161,17 @@ form >button:hover {
         font-size: 20px;
        
     }
+
+    .footer{
+        width: 100%;
+        background-size: cover;
+        background-repeat: no-repeat;
+      }
+}
+
+@media screen and (max-width:520px){
+    .con{
+       
+        font-size: 19px;
+    }
 }

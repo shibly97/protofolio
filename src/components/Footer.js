@@ -18,6 +18,8 @@ function Footer (){
             console.log(error.text);
             alert("Issue with submiting. Please try again.")
         });
+
+        e.target.reset()
     }
     return(
       
