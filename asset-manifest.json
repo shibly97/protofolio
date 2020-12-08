@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/protofolio/static/css/main.10977cf7.chunk.css",
+    "main.js": "/protofolio/static/js/main.6d363ecf.chunk.js",
+    "main.js.map": "/protofolio/static/js/main.6d363ecf.chunk.js.map",
+    "runtime-main.js": "/protofolio/static/js/runtime-main.052813d9.js",
+    "runtime-main.js.map": "/protofolio/static/js/runtime-main.052813d9.js.map",
+    "static/js/2.8d93af18.chunk.js": "/protofolio/static/js/2.8d93af18.chunk.js",
+    "static/js/2.8d93af18.chunk.js.map": "/protofolio/static/js/2.8d93af18.chunk.js.map",
+    "index.html": "/protofolio/index.html",
+    "static/css/main.10977cf7.chunk.css.map": "/protofolio/static/css/main.10977cf7.chunk.css.map",
+    "static/js/2.8d93af18.chunk.js.LICENSE.txt": "/protofolio/static/js/2.8d93af18.chunk.js.LICENSE.txt",
+    "static/media/bootstrap.e1d2b267.png": "/protofolio/static/media/bootstrap.e1d2b267.png",
+    "static/media/c.7f58ab59.png": "/protofolio/static/media/c.7f58ab59.png",
+    "static/media/codecademy.be125320.PNG": "/protofolio/static/media/codecademy.be125320.PNG",
+    "static/media/css.de88f6dc.png": "/protofolio/static/media/css.de88f6dc.png",
+    "static/media/d3.3a4d43d9.png": "/protofolio/static/media/d3.3a4d43d9.png",
+    "static/media/figma.46400ab8.png": "/protofolio/static/media/figma.46400ab8.png",
+    "static/media/Footer.css": "/protofolio/static/media/footer.d3e481cc.jpg",
+    "static/media/freecodecamp.6129d818.jpg": "/protofolio/static/media/freecodecamp.6129d818.jpg",
+    "static/media/git.305be34a.png": "/protofolio/static/media/git.305be34a.png",
+    "static/media/html.976f96db.png": "/protofolio/static/media/html.976f96db.png",
+    "static/media/jquery.26c7fcb8.png": "/protofolio/static/media/jquery.26c7fcb8.png",
+    "static/media/js1.ca691704.png": "/protofolio/static/media/js1.ca691704.png",
+    "static/media/mongodb1.41634622.png": "/protofolio/static/media/mongodb1.41634622.png",
+    "static/media/mssql1.4085e477.png": "/protofolio/static/media/mssql1.4085e477.png",
+    "static/media/mysql.03b82d00.png": "/protofolio/static/media/mysql.03b82d00.png",
+    "static/media/node.2c5598db.png": "/protofolio/static/media/node.2c5598db.png",
+    "static/media/php.9e4fe8e6.png": "/protofolio/static/media/php.9e4fe8e6.png",
+    "static/media/pic-3.622cd897.jpg": "/protofolio/static/media/pic-3.622cd897.jpg",
+    "static/media/python.f0c9d647.png": "/protofolio/static/media/python.f0c9d647.png",
+    "static/media/react.55fe6706.png": "/protofolio/static/media/react.55fe6706.png",
+    "static/media/redux.296b9306.png": "/protofolio/static/media/redux.296b9306.png",
+    "static/media/sass.6d76b44e.png": "/protofolio/static/media/sass.6d76b44e.png",
+    "static/media/video-1.59e75226.mp4": "/protofolio/static/media/video-1.59e75226.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.052813d9.js",
+    "static/js/2.8d93af18.chunk.js",
+    "static/css/main.10977cf7.chunk.css",
+    "static/js/main.6d363ecf.chunk.js"
+  ]
+}
