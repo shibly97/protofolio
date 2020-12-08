@@ -28,11 +28,11 @@ function Footer (){
                 <h1>Get in touch</h1>
                 
                 <div className="social">
-                <a href="/"><i className="fa fa-linkedin"></i></a>
-                <a href="/"><i className="fa fa-github"></i></a>
-                <a href="/"><i className="fa fa-twitter"></i></a>
-                <a href="/"><i className="fa fa-stack-overflow"></i></a>
-                <a href="/"><i className="fa fa-facebook"></i></a>
+                <a href="https://www.linkedin.com/in/shibly-mohamed-14848219a"><i className="fa fa-linkedin"></i></a>
+                <a href="https://github.com/shibly97"><i className="fa fa-github"></i></a>
+                <a href="https://twitter.com/shibly_16?s=08"><i className="fa fa-twitter"></i></a>
+                <a href="https://stackoverflow.com/users/12890773/shibly"><i className="fa fa-stack-overflow"></i></a>
+                <a href="https://www.facebook.com/profile.php?id=100006682456748"><i className="fa fa-facebook"></i></a>
                 </div>
 
                 <div className="contact-container">
