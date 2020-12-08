@@ -1,0 +1,164 @@
+.footer{
+  width: 100%;
+  background-image: url('footer.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.social{
+    width: 90%;
+    margin: 20px auto;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 50px;
+    
+}
+
+.social> a:hover{
+    cursor: pointer;
+    transform: scale(1.2);
+    transition: all 0.2s ease;
+}
+
+.fa-linkedin{
+    color: rgba(14, 170, 218, 0.925);
+}
+
+.fa-twitter{
+    color: rgb(34, 202, 231);
+}
+
+.fa-stack-overflow{
+    color: rgb(228, 151, 36);
+}
+
+.fa-facebook{
+    color: rgb(86, 86, 207);
+}
+
+.fa-github{
+    color: rgb(236, 236, 236);
+}
+
+.footer-container{
+    box-shadow: inset 0 0 0 1000px rgba(0,0,0,0.8);
+}
+
+.footer-container > h1{
+    text-align: left;
+    color: #fff;
+    padding-top: 35px;
+    padding-left: 10px;
+    font-size: 105px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 50;
+}
+
+.contact-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    /* background-color: rgb(94, 112, 76); */
+    
+}
+
+.contact{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.con{
+    width: 95%;
+    text-align: center;
+    margin: 18px;
+    font-family: sans-serif;
+    color: rgb(204, 204, 204);
+    font-size: 40px;
+}
+
+form{
+   
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    margin: 0 auto;
+    font-size: 20px;
+    color: white;
+}
+
+form > label{
+    margin-top: 15px;
+    font-family: sans-serif;
+    font-weight: 100;
+}
+
+form > input {
+    height: 35px;
+    font-size: 20px;
+    margin-top: 5px;
+    color: rgb(40, 41, 41);
+    background-color: rgb(218, 218, 218);
+    border: none;
+    border-radius: 2px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+textarea{
+    font-size: 20px;
+    margin-top: 5px;
+    color: rgb(40, 41, 41);
+    border: none;
+    border-radius: 2px;
+    background-color: rgb(218, 218, 218);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.form-head{
+    color: whitesmoke;
+}
+
+form >button {
+    width: 27%;
+    margin: 20px auto;
+    padding: 10px;
+    font-size: 20px;
+    font-family: sans-serif;
+    background-color: rgb(34, 202, 231);
+    border:1px solid rgb(4, 174, 204);
+}
+
+form >button:hover {
+    background-color: rgb(89, 230, 255);
+}
+
+@media screen and (max-width:960px){
+    
+    .contact-container{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .footer-container > h1{
+        font-size: 95px;
+        line-height: 1.1;
+    }
+
+    .con{
+        width: 99%;
+        text-align: center;
+        margin: 10px;
+        font-family: sans-serif;
+        color: rgb(235, 235, 235);
+        font-size: 25px;
+    }
+
+    form >button {
+        width: 40%;
+        margin: 20px auto;
+        padding: 10px;
+        font-size: 20px;
+       
+    }
+}
