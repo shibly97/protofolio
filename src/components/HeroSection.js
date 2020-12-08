@@ -2,12 +2,14 @@ import React from 'react'
 import  '../App.css'
 import './HeroSection.css'
 import {Button} from './Button'
+import video from '../video/video-1.mp4'
+import profile from '../image/pic-3.jpg'
 
 function HeroSection() {
     return (
         <div className="hero-container">
-            <video src='/public/video/video-1.mp4' autoPlay loop muted></video>
-            <img id='profile-img' src='/image/pic-3.jpg' alt='profile'></img>
+            <video src={video} autoPlay loop muted></video>
+            <img id='profile-img' src={profile} alt='profile'/>
             <div className = 'hero-btns'>
                 <Button className='btns' buttonStyle='btn--hero' buttonSize='btn--ex-large'>About Me</Button>
             </div>

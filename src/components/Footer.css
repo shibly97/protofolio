@@ -164,7 +164,7 @@ form >button:hover {
 
     .footer{
         width: 100%;
-        background-size: cover;
+        background-size: auto;
         background-repeat: no-repeat;
       }
 }
