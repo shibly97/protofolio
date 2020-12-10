@@ -11,13 +11,14 @@ function Cards() {
             <h1>Certifications</h1>
             <div className="cards-container">
                 <div className="cards__wrapper">
-                        <Carditem src={codecademy} head="Computer Science Certification" date="March 2020" from="Codecademy"/>
+                        <Carditem src={codecademy} 
+                        to="/certi_2" head="Computer Science Certification" date="March 2020" from="Codecademy"/>
                 </div>
                 <div className="cards__wrapper">
-                        <Carditem src={fcc} head="Full-Stack developer Certification" date="Novermber 2020" from="freecodecamp.org"/>
+                        <Carditem src={fcc} head="Full-Stack developer Certification" to="/certi_1" date="Novermber 2020" from="freecodecamp.org"/>
                 </div>
                 <div className="cards__wrapper">
-                        <Carditem src={codecademy} head="Data Science Related Certifications" date="Novermber 2020" from="codecademy"/>
+                        <Carditem src={codecademy} head="Data Science Related Certifications"  to="/certi_3" date="Novermber 2020" from="codecademy"/>
                 </div> 
             </div>
         </div>

@@ -5,7 +5,7 @@ function carditem(props) {
     return (
         <>
            <div className="card-container">
-           <Link to="/" className="card-link">
+           <Link to={props.to} className="card-link" >
                 <div className="card-img">
                     <img  alt="Certificate" src={props.src}></img>
                 </div>

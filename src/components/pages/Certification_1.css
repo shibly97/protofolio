@@ -1,0 +1,46 @@
+.cirti, .cover{
+    width: 100%;
+  
+    margin-top: 20px;
+    align-items: center;
+    text-align: center;
+}
+
+.cirti > img {
+    width: 50vw;
+}
+
+.cirti-info{
+    width: 40vw;
+    margin: auto;
+    text-align: justify;
+    margin-top: 25px;
+}
+
+.verify{
+    color: #242424;
+    padding: 1px 20px;
+    font-size: 17px;
+}
+
+.cover > img {
+    width: 23%;
+}
+
+@media screen and (max-width:960px){
+    .cirti > img {
+        width: 85vw;
+    }
+
+    .cirti-info{
+        width: 66vw;
+      
+    }
+
+    .cover > img {
+        width: 49vw;
+    }
+
+}
+
+

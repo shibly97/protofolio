@@ -44,18 +44,18 @@ const NavBar = () => {
                      <Link to='/protofolio' className='nav-links' onClick={closeMobileMenu}>Home</Link>
                  </li>
                  <li className='nav-item'>
-                     <Link to='/' className='nav-links' onClick={closeMobileMenu}>Projects</Link>
+                     <Link to='/projects' className='nav-links' onClick={closeMobileMenu}>Projects</Link>
                  </li>
                  <li className='nav-item'>
-                     <Link to='/' className='nav-links-mobile' onClick={closeMobileMenu}>Contact</Link>
+                     <Link to='/contact' className='nav-links-mobile' onClick={closeMobileMenu}>Contact</Link>
                  </li>
                  <li className='nav-item'>
-                     <Link to='/' className='nav-links-mobile' onClick={closeMobileMenu}>Download CV</Link>
+                     <Link to='/dcv' className='nav-links-mobile' onClick={closeMobileMenu}>Download CV</Link>
                  </li>
              </ul>
              {/* if the button is true */}
-             {button && <Button buttonStyle='btn--outline'>Contact</Button>}
-             {button && <Button buttonStyle='btn--outline'>Download CV</Button>}
+             {button && <Button to='/contact' buttonStyle='btn--outline'>Contact</Button>}
+             {button && <Button to='/dcv' buttonStyle='btn--outline'>Download CV</Button>}
          </div>
      </nav>
     )
