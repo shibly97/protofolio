@@ -91,9 +91,9 @@ const Skills = () => {
                 <img alt="logo" src={express} className="express-img"></img>
                 <h5>Express</h5></div>
 
-                <div className="php">
+                {/* <div className="php">
                 <img alt="logo" src={php} className="php-img"></img>
-                <h5>PHP</h5></div>
+                <h5>PHP</h5></div> */}
 
                 <div className="django">
                 <img alt="logo" src={django} className="django-img"></img>
