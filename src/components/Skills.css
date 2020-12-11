@@ -40,18 +40,18 @@
     padding: 20px;
     
 }
-
-
 img{
-    width: 60px;
-    object-fit: cover;
+    width: 100%;
 }
-
 
 .lang > div{
     display: flex;
     justify-content: center;
     padding: 20px;
+}
+
+.lang-img-con{
+    width: 5vw;
 }
 
 h5{
@@ -73,6 +73,10 @@ h2{
     .skills-container{
         display: flex;
         flex-direction: column;
+    }
+
+    .lang-img-con{
+        width: 12vw;
     }
     
 }
