@@ -13,7 +13,7 @@ function HeroSection() {
             <img id='profile-img' src={profile} alt='profile'/>
             <div className = 'hero-btns'>
             <Link to='/about'>
-                <Button to='about' className='btns' buttonStyle='btn--hero' buttonSize='btn--ex-large'>About Me</Button></Link>
+                <Button to='/about' className='btns' buttonStyle='btn--hero' buttonSize='btn--ex-large'>About Me</Button></Link>
             </div>
         </div>
     )

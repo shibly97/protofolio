@@ -11,7 +11,7 @@ const Certification_3 = () => {
            </div>
            <div className="cirti-info">
           <p>
-          From this course I more about SQL and Python — two languages that are loved by data scientists. Plus, techniques for gathering, cleaning, analyzing, and visualizing data, using real datasets provided to Codecademy by Warby Parker, Twitch, Hacker News, Yelp, and more. </p><br/>
+          From this course I learned more about SQL and Python — two languages that are loved by data scientists. Plus, techniques for gathering, cleaning, analyzing, and visualizing data, using real datasets provided to Codecademy by Warby Parker, Twitch, Hacker News, Yelp, and more. </p><br/>
 
           <p>Some main areas covered by this course</p><br/>
                
