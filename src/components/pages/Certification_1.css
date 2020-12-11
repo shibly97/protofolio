@@ -4,6 +4,7 @@
     margin-top: 20px;
     align-items: center;
     text-align: center;
+    padding-bottom: 40px;
 }
 
 .cirti > img {
@@ -25,6 +26,19 @@
 
 .cover > img {
     width: 23%;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(94, 80, 80);
+}
+
+.more_info:hover , .cirti-list > li > a:hover{
+    color: black;
+}
+
+.cirti-list > li {
+    margin-left: 30px;
 }
 
 @media screen and (max-width:960px){

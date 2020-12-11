@@ -11,23 +11,19 @@ const Certification_3 = () => {
            </div>
            <div className="cirti-info">
           <p>
-            There are main six freeCodeCamp certificates:
+          From this course I more about SQL and Python — two languages that are loved by data scientists. Plus, techniques for gathering, cleaning, analyzing, and visualizing data, using real datasets provided to Codecademy by Warby Parker, Twitch, Hacker News, Yelp, and more. </p><br/>
 
-            Upon completion of all six certificates, the freeCodeCamp Full Stack Development Program Certificate will be issued. This final distinction signifies completion of approximately 1,800 hours of coding with exposure to a wide range of web development tools. </p><br/>
+          <p>Some main areas covered by this course</p><br/>
+               
+               <ul className='cirti-list'>
 
-            <ul>
-            <li>Responsive Web Design</li> 
-            <li>Algorithms and Data Structure</li>
-            <li>Front End Libraries</li>
-            <li>Data Visualization</li>
-            <li>APIs and Microservices</li>
-            <li>Information Security and Quality Assurance</li>
-            </ul><br/>
+                <li>Web scrapping with beautiful soap</li>
+                <li>Clean Data with Python</li>
+                <li>Statistic with NumPy</li>
+                <li>Data Analysis with Python</li>
+               </ul><br/>
 
-            <p>Each certificate curriculum should take approximately 300 hours to complete and includes 5 required projects. 
-
-
-            For more information about freeCodeCamp, visit <a href="https://www.freecodecamp.org">freecodecamp</a></p>
+               <p>For more information, visit <a className='more_info' href="https://www.codecademy.com/profiles/shiblyMohamed">CodeCademy</a></p>
         
             </div>
             <div className='img-gal'>

@@ -8,7 +8,7 @@ import Projects from './components/pages/Projects'
 import Certi_1 from './components/pages/Certification_1'
 import Certi_2 from './components/pages/Certification_2'
 import Certi_3 from './components/pages/Certification_3'
-import about from './components/pages/About'
+import About from './components/pages/About'
 
 function App() {
   return (
@@ -21,7 +21,7 @@ function App() {
      <Route path="/certi_1" component={Certi_1}/>
      <Route path="/certi_2" component={Certi_2}/>
      <Route path="/certi_3" component={Certi_3}/>
-     <Route path="/about" component={about}/>
+     <Route path="/about" component={About}/>
 
     </Switch>
   </Router>
